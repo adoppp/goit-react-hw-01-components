@@ -1,0 +1,34 @@
+.transactionHistory {
+    margin-top: 80px;
+}
+
+.th {
+    background-color: darkcyan;
+    color: white;
+    width: 360px;
+    padding: 16px 0;
+}
+
+.type {
+    width: 360px;
+    padding: 12px 0;
+    text-align: center;
+    color: darkslategray;
+    background-color: rgb(201, 201, 201);
+}
+
+.amount {
+    width: 360px;
+    padding: 12px 0;
+    text-align: center;
+    color: darkslategray;
+    background-color: rgb(194, 217, 214);
+}
+
+.currency {
+    width: 360px;
+    padding: 12px 0;
+    text-align: center;
+    color: darkslategray;
+    background-color: rgb(201, 201, 201);
+}
